@@ -1,0 +1,8 @@
+It was a tour to ubuntustudio.org 
+After visiting that site i went for the feature tour first.There were seversl contents.Such as audio,graphics,video,photography,pulishing.
+Tour in the audio section included several audio software such as JACK which is a low latency capable applications toi correct to each other.A common program for controlling the jack server is Qjackctl.
+Then there was Ardour that is also a digital audio workstation suitable for recording,mixing and mastering.
+Sequencews and synthesizers:There was a list of notable applicatipons such as audacity,Hydrozen etc.
+Again there was a section of audio programming evironments.
+For graphics there were several environment such as bolender.Inkspace,GIMP,MyPiant etc..
+For video there was Openshot,FFMPEG,dvdstyler etc.
