@@ -8,3 +8,5 @@ For graphics there were several environment such as bolender.Inkspace,GIMP,MyPia
 For video there was Openshot,FFMPEG,dvdstyler etc.
 Then we searched for amazon kindle.That is an E-reader. All Kindle devices integrate with Kindle Store content
 After that we visited a sound recording studio.
+After that we went into this site.
+http://cec.nic.in/NME-ICT%20Project/dth/Documents/E-Content%20Development%20Guidelines.pdf
