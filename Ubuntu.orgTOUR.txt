@@ -6,3 +6,4 @@ Sequencews and synthesizers:There was a list of notable applicatipons such as au
 Again there was a section of audio programming evironments.
 For graphics there were several environment such as bolender.Inkspace,GIMP,MyPiant etc..
 For video there was Openshot,FFMPEG,dvdstyler etc.
+Then we searched for amazon kindle.That is an E-reader. All Kindle devices integrate with Kindle Store content
