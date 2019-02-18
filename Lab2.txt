@@ -8,4 +8,9 @@ Vastly improved sample points editor
 Sample X-Fades at loop points
 LFO amplitude modulation
 Many GUI updates.
-
+Next I saw the audacity tool.
+Audacity is a free, easy-to-use, multi-track audio editor and recorder for Windows, Mac OS X, GNU/Linux and other operating systems. The interface is translated into many languages
+Features:
+Record live audio
+Record computer playback on any Windows Vista or later machine
+Convert tapes and records into digital recordings or CDs
