@@ -1,4 +1,4 @@
-In lab to I went to the petri-Foo tool.It is a fork of the Specimen sampler project.Specimen was originally developed by Pete Bessman.Petri-Foo was forked from specimen SVN.
+In todays lab to I visited several tools went to the petri-Foo tool.It is a fork of the Specimen sampler project.Specimen was originally developed by Pete Bessman.Petri-Foo was forked from specimen SVN.
 Default sample/patch setup
 Modulation and MIDI CC routing
 Jack session support
@@ -8,8 +8,8 @@ Vastly improved sample points editor
 Sample X-Fades at loop points
 LFO amplitude modulation
 Many GUI updates.
-Next I saw the audacity tool.
 
+Next I saw the audacity tool.
 Audacity is a free, easy-to-use, multi-track audio editor and recorder for Windows, Mac OS X, GNU/Linux and other operating systems. The interface is translated into many languages
 Features:
 Record live audio
@@ -26,4 +26,3 @@ It is a live looping sampler capable of immediate loop recording, overdubbing, m
 
 Pure Data:
 Pure Data (Pd) is a visual programming language developed by Miller Puckette in the 1990s for creating interactive computer music and multimedia works.
-After getting the peoject topic we started the steps as our course teacher said to us 
