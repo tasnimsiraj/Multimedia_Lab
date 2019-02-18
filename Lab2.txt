@@ -1,1 +1,1 @@
-In lab to I went to the
+In lab to I went to the petri-Foo tool.It is a fork of the Specimen sampler project.Specimen was originally developed by Pete Bessman.Petri-Foo was forked from specimen SVN.
