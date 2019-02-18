@@ -26,3 +26,4 @@ It is a live looping sampler capable of immediate loop recording, overdubbing, m
 
 Pure Data:
 Pure Data (Pd) is a visual programming language developed by Miller Puckette in the 1990s for creating interactive computer music and multimedia works.
+After getting the peoject topic we started the steps as our course teacher said to us 
